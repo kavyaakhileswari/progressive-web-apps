@@ -1,0 +1,48 @@
+{
+  "basics":{
+    "name:":"kavya",
+    "role":"mean-stack",
+    "mobile":"+91 7776665544",
+    "email":"reddykavyaakhileswari@gmail.com"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+  },
+  "education":[
+    {
+      "degree":"B-Tech(coumputer science and engineering)",
+      "institute":"vignan nirula",
+      "data":["2016-20","85%"]
+    },
+    {
+      "degree":"intermediate(mpc)",
+      "institute":"sri chaithanya",
+      "data":["2014-16","95%"]
+    },
+    {
+      "degree":"ssc",
+      "institute":"oxford",
+      "data":["2014","93%"]
+    }
+
+  ],
+  "skills":[
+    {
+      "title":"programming languages",
+      "content":["python","c","java","R","c++"]
+    },
+    {
+      "title":"databases",
+      "content":["sql","oracle","mysql"]
+    },
+    {
+      "title":"web technologies",
+      "content":["html","xml","javascript","css"]
+    },
+    {
+      "title":"operating systems",
+      "content":["windows","unix","linux"]
+    }
+
+  ]
+}
